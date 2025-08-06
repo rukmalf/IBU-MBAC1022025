@@ -23,6 +23,7 @@ August 16, 2025
 
 ### About
 This repo contains the data preparation scripts and data analysis scripts used in the MBAC1022025 Business Analytics - Group Case Study in the Summer 2025 (Block 2) at International Business University, Toronto, ON., Canada.
+This repo and all of its contents are published solely for educational purposes.
 
 ### Prerequisites
 1. Data: download the IBM Telco Customer Churn dataset. Relevant links:
