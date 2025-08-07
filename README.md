@@ -41,26 +41,26 @@ This repo in its entirety is published solely for educational purposes.
 ### Data Analysis
 1. Run [decision-tree.r](decision-tree.r) to build a Decision Tree model using the full dataset. It will output the following:
   - the weight of each independent variable on the outcome variable ("Churn Label")
-  - example feature importance output: ![Sample output of feature importance](feature-importance-1.png)
+  - example feature importance output: ![Sample output of feature importance](./images/feature-importance-1.png)
   - Decision Tree model structure and weights
-  - example decision tree model output: ![Sample output of Decision Tree model structure](decision-tree-model-structure-1.png)
+  - example decision tree model output: ![Sample output of Decision Tree model structure](./images/decision-tree-model-structure-1.png)
   - a PNG image (decision-tree-model-1.png) of the resulting Decision Tree model
   - example visual representation of decision tree: ![Sample plot of Decision Tree](decision-tree-model-1.png)
   - use the model for prediction, generate a Confusion Matrix and calculate model accuracy statistics.
-  - example confusion matrix and model accuracy output: ![Confusion Matrix and Accuracy stats](confusion-matrix-and-accuracy-1.png)
+  - example confusion matrix and model accuracy output: ![Confusion Matrix and Accuracy stats](./images/confusion-matrix-and-accuracy-1.png)
 2. Run [decision-tree-classifier.r](decision-tree.r) to train a Decision Tree with 80% of the data, and use the rest for classification. It will output the following:
   - the weight of each independent variable on the outcome variable ("Churn Label")
-  - Sample image: ![Sample output of feature importance](feature-importance-2.png)
+  - Sample image: ![Sample output of feature importance](./images/feature-importance-2.png)
   - Decision Tree model structure and weights
-  - Sample image: ![Sample output of Decision Tree model structure](decision-tree-model-structure-2.png)
+  - Sample image: ![Sample output of Decision Tree model structure](./images/decision-tree-model-structure-2.png)
   - a PNG image (decision-tree-model-2.png) of the resulting Decision Tree model
   - Sample image: ![Sample plot of Decision Tree](decision-tree-model-2.png)
   - use the model for prediction, generate a Confusion Matrix and calculate model accuracy statistics.
-  - example confusion matrix and model accuracy output: ![Confusion Matrix and Accuracy stats](confusion-matrix-and-accuracy-2.png)
+  - example confusion matrix and model accuracy output: ![Confusion Matrix and Accuracy stats](./images/confusion-matrix-and-accuracy-2.png)
 3. Run [random-forest.r](random-forest.r) to build a Random Forest model with the full dataset. It will output the following:
   - Random Forest model structure
-  - Sample image: ![Sample output of Random Forest model structure](random-forest-model-structure.png)
+  - Sample image: ![Sample output of Random Forest model structure](./images/random-forest-model-structure.png)
   - a PNG image representing the model accuracy as random trees were added (random-forest-model-accuracy-graph.png)
   - Sample image: ![Sample graph of Random Forest accuracy against size](random-forest-model-accuracy-graph.png)
   - use the model for prediction, generate a Confusion Matrix and calculate model accuracy statistics.
-  - example confusion matrix and model accuracy output: ![Confusion Matrix and Accuracy stats](confusion-matrix-and-accuracy-3.png)
+  - example confusion matrix and model accuracy output: ![Confusion Matrix and Accuracy stats](./images/confusion-matrix-and-accuracy-3.png)
