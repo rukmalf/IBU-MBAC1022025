@@ -1,15 +1,17 @@
 # Group Case Study
-# Francis (202501????)
-# Taiwo (202501????)
-# Giulia (202501????)
-# Raman (202501????)
+# Francis Ogunlaja (2024092880)
+# Giulia Moliterno Santos (2025015348)
+# Ramandeep Kaur (2024093666)
 # Rukmal Mahinda Hettiyakandage Fernando (2025014919)
+# Taiwo Ernestina Jivoh (2025016367)
 # 
 # International Business University
 #  MBAC1022025: Business Analytics
 #       Prof. Foad Aghamiri
 #         August 16, 2025
-
+#
+# See README.md for more information about this file.
+#
 # Prerequisites - uncomment and run once
 #install.packages("rpart")
 #install.packages("rpart.plot")

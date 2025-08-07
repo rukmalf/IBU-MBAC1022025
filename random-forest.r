@@ -1,16 +1,17 @@
 # Group Case Study
-# Francis (202501????)
-# Taiwo (202501????)
-# Giulia (202501????)
-# Raman (202501????)
+# Francis Ogunlaja (2024092880)
+# Giulia Moliterno Santos (2025015348)
+# Ramandeep Kaur (2024093666)
 # Rukmal Mahinda Hettiyakandage Fernando (2025014919)
+# Taiwo Ernestina Jivoh (2025016367)
 # 
 # International Business University
 #  MBAC1022025: Business Analytics
 #       Prof. Foad Aghamiri
 #         August 16, 2025
-
-
+#
+# See README.md for more information about this file.
+#
 # Prerequisites - uncomment and run once
 #install.packages("randomForest")
 #install.packages("ggplot2")
@@ -77,11 +78,13 @@ oob.error.data <- data.frame(
 	churn_classification_rf_model$err.rate[,"No"]))
 
 # load ggplot2 and plot the Random Forest's accuracy as against growth
+png("random-forest-model-accuracy-graph.png", width = 800, height = 600)
 library(ggplot2)
 ggplot(data=oob.error.data, aes(x=Trees, y=Error)) + geom_line(aes(color=Type))
+dev.off()
 
 # attempt to output graphical representation of Random Forest model
-png("random-forest-model-1.png", width = 800, height = 600)
+png("random-forest-model-1.png", width = 1200, height = 900)
 plot(churn_classification_rf_model)
 dev.off()
 
