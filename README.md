@@ -28,7 +28,7 @@ This repo in its entirety is published solely for educational purposes.
 
 ### Prerequisites
 1. Data: download the IBM Telco Customer Churn dataset. Relevant links:
-  - https://accelerator.ca.analytics.ibm.com/bi/?perspective=authoring&pathRef=.public_folders%2FIBM%2BAccelerator%2BCatalog%2FContent%2FDAT00148&id=i9710CF25EF75468D95FFFC7D57D45204&objRef=i9710CF25EF75468D95FFFC7D57D45204&action=run&format=HTML&cmPropStr=%7B%22id%22%3A%22i9710CF25EF75468D95FFFC7D57D45204%22%2C%22type%22%3A%22reportView%22%2C%22defaultName%22%3A%22DAT00148%22%2C%22permissions%22%3A%5B%22execute%22%2C%22read%22%2C%22traverse%22%5D%7D
+  - https://accelerator.ca.analytics.ibm.com/bi/?perspective=authoring&pathRef=.public_folders%2FIBM%2BAccelerator%2BCatalog%2FContent%2FDAT00148
   - https://www.ibm.com/docs/en/cognos-analytics/12.1.0?topic=samples-telco-customer-churn
 2. Data preparation: extract the ZIP file and convert the below files into CSV format, preserving the same file names:
   - `Telco_customer_churn.xlsx` -> `Telco_customer_churn.csv`

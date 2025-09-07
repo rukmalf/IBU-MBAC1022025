@@ -1,9 +1,9 @@
 REM                 Group Case Study
-REM Francis (202501????)
-REM Taiwo (202501????)
-REM Giulia (202501????)
-REM Raman (202501????)
+REM Francis Ogunlaja (2024092880)
+REM Giulia Moliterno Santos (2025015348)
+REM Ramandeep Kaur (2024093666)
 REM Rukmal Mahinda Hettiyakandage Fernando (2025014919)
+REM Taiwo Ernestina Jivoh (2025016367)
 REM 
 REM       International Business University
 REM        MBAC1022025: Business Analytics
